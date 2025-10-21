@@ -1,0 +1,17 @@
+VedicScan-AI-Diagnostic-Assistant/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── sample_data/
+│
+├── ml_model/
+│   └── cnn_model.py
+│
+├── llm_demo.py
+└── README.md
